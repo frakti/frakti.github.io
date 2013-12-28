@@ -1,0 +1,27 @@
+body {
+    background-color: white;
+    text-align: center;
+    font-size:12px;
+    margin:0px;
+    font-family: "Trebuchet MS",Verdana,"Lucida Grande",Tahoma,Helvetica,Sans-Serif;
+}
+h1 {
+    color: darkbrown;
+}
+
+#content {
+    width: 765px;
+    margin: 0 auto;
+    padding-top: 3%;
+}
+
+hr.line {
+    color: darkbrown;
+    width: 400px;
+    border: 0;
+    height: 1px;
+    background-image: -webkit-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+    background-image:    -moz-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+    background-image:     -ms-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+    background-image:      -o-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+}
